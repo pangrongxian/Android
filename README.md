@@ -32,23 +32,23 @@ https://pangrongxian.github.io/
 
 ##  Android 事件分发机制
 
-[图解 Android 事件分发机制](https://pangrongxian.github.io/2016/08/15/Android%20%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6/)
+[图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
 
 
 ### 郭神的两篇：
 
-[Android事件分发机制完全解析，带你从源码的角度彻底理解(上)]()
+[Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)
 
-[Android事件分发机制完全解析，带你从源码的角度彻底理解(下)]()
+[Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
 
 ### 鸿神的两篇：
 
-[Android View 事件分发机制 源码解析 （上）]()
+[Android View 事件分发机制 源码解析 （上）](http://blog.csdn.net/lmj623565791/article/details/38960443)
 
-[Android ViewGroup事件分发机制]()
+[Android ViewGroup事件分发机制](http://blog.csdn.net/lmj623565791/article/details/39102591)
 
 
-[可能是讲解Android事件分发最好的文章]()
+[可能是讲解Android事件分发最好的文章](http://www.jianshu.com/p/2be492c1df96)
 
 [ Android触摸屏事件派发机制详解与源码分析一(View篇)](http://blog.csdn.net/yanbober/article/details/45887547)
 
